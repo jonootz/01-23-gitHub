@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
@@ -48,8 +48,7 @@
     Title="Images"
     Link="/Content/D_Images/Images.htm">
     <TocEntry
-      Title="Thumbnail Image"
-      Link="/Content/D_Images/ThumbnailImage.htm" />
+      Title="Thumbnail Image" />
     <TocEntry
       Title="Positioned Left"
       Link="/Content/D_Images/ImagePositionedLeft.htm" />
