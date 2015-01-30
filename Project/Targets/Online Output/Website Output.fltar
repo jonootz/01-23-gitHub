@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="HTML5 Output"
@@ -13,5 +13,5 @@
   IncludeStopWords="true"
   GenerateWebSafeImages="true"
   WebSafeFileExtension="png"
-  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp">
-</CatapultTarget>
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  GetLatestBeforeCompile="true"></CatapultTarget>

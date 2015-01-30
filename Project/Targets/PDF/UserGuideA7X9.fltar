@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="User Guide A—7X9"
@@ -10,7 +10,8 @@
   PatchHeadingLevels="true"
   InjectEmptyPages="true"
   UseLocalBuildSettings="true"
-  IgnoredCompilerWarnings="20032,20033,20034,20035,20036,20037,20038,20039,20040,20041">
+  IgnoredCompilerWarnings="20032,20033,20034,20035,20036,20037,20038,20039,20040,20041"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     ExpandingTextConversion="expand"
